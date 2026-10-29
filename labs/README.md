@@ -1,13 +1,17 @@
 # Labs
 
-Use this section for focused networking practice and experiments. There are no lab entries yet.
+Simulation exercises and lab documentation currently in the repository. The files below are learning artifacts; test results and environment details should be treated as unrecorded unless the linked material explicitly supplies them.
 
-## Add
+| Exercise | Available materials |
+| --- | --- |
+| **DHCP and router-on-a-stick** | [Documentation](<DHCP + ROAS/DHCP_ROAS_Lab_Documentation.pdf>) · [Topology archive](<DHCP + ROAS/DHCP + ROAS.zip>) |
+| **DNS server** | [Access reference](Dns%20Server/dns_server_access_reference.pdf) · [Topology archive](Dns%20Server/Dns%20Server.zip) |
+| **DNS, DHCP, NTP, and routing** | [Documentation](Ntp_Dhcp_Dns_Routing/DNS%20%2B%20Backup_DNS%20%2B%20NTP%20%2B%20TELNET%20Access.pdf) · [Topology archive](Ntp_Dhcp_Dns_Routing/Ntp_Dhcp_Dns_Routing.zip) |
+| **OSPF** | [Documentation](OSPF/OSPF.pdf) · [Topology archive](OSPF/OSPF.zip) |
+| **RIP** | [Documentation](RIP/Rip.pdf) · [Packet Tracer file](RIP/Rip.pkt) |
 
-Create one folder per exercise and copy the [lab template](TEMPLATE.md) to its README. State the learning objective, prerequisites, environment/version, topology/addressing, procedure, expected and actual results, diagnostic steps, and lessons. Link sanitized evidence and source material. Label simulation versus physical equipment explicitly and keep status current.
+The ZIP archives contain `.unl` topology files. Open them with a compatible lab environment and review the accompanying documentation before use.
 
-Add an entry here with a short objective and status when a lab exists. An unfinished lab is fine if it is labeled accurately. A lab can later become a project when it addresses a broader problem with clear completion criteria; preserve its lab context.
+## Adding a lab
 
-## Keep out
-
-Do not present exercises as production deployments or credentials. Avoid copied answers without attribution, screenshots without explanation, unsanitized packet captures, and unsupported success claims. General reference material belongs in [notes](../notes/README.md).
+Create a clearly named folder, add a README based on the [lab template](TEMPLATE.md), and link it here. Record the platform and versions, objective, procedure, and actual test results. Label results that are illustrative rather than captured, and do not describe a simulation as a production deployment.

@@ -1,39 +1,37 @@
 # <Lab title>
 
-**Context:** <simulated lab / physical lab>
+**Context:** <simulation / physical lab>
 
 **Status:** <planned / in progress / complete>
 
-**Learning objective:** <what this exercise will demonstrate>
+## Objective
 
-## Environment and prerequisites
+<What are you learning or demonstrating? What would count as success?>
 
-<Platform/device and software versions, prior knowledge, dependencies, and assumptions. Credit any tutorial followed.>
+## Environment
 
-## Topology and addressing
+<Platform, device or software versions, prerequisites, and assumptions. Credit tutorials or other sources.>
 
-<Diagram or link, device roles, interfaces, subnets, VLANs, and gateways as needed. Use sanitized example addresses consistently.>
+## Topology
 
-## Procedure and configurations
+<Add a diagram or link. Describe device roles, interfaces, VLANs, subnets, and gateways as relevant. Use sanitized example addresses.>
 
-<Ordered steps, where each command runs, and why it matters. Link sanitized configuration files. Include cleanup/reset instructions where relevant.>
+## Procedure
 
-## Expected versus actual tests
+<List reproducible steps, where commands run, and why they matter. Link sanitized configuration files. Include reset or cleanup steps if useful.>
 
-| Test and procedure | Expected behavior | Actual behavior | Evidence | Result/date |
+## Verification
+
+| Test | Expected result | Actual result | Evidence | Status |
 | --- | --- | --- | --- | --- |
-| <test to run> | <success criterion> | Not run | None yet | Pending |
+| <procedure and success criterion> | <expected behavior> | Not run | None | Pending |
 
-<Record observations after testing, including failed or blocked tests. Explain limits of what the lab demonstrates.>
+<Record failures and limitations as well as successes. Clearly label illustrative output; do not present it as a captured result.>
 
-## Troubleshooting
+## Troubleshooting and lessons
 
-<Symptom, hypothesis, diagnostic observation, fix or experiment, and retest. Mark unresolved causes as uncertain.>
-
-## Lessons and next steps
-
-<Explain what you learned, what remains unclear, and one useful extension. Compare the result with the objective before marking complete.>
+<Summarize symptoms, diagnostics, findings, and what you would try next. Mark unconfirmed causes as suspected.>
 
 ## References
 
-<Sources, relevant versions/access dates, and attribution. Distinguish your own changes from the original exercise.>
+<Link sources, relevant versions or access dates, and attribution. Distinguish your own work from the source material.>

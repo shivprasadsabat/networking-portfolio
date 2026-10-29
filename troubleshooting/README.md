@@ -1,21 +1,13 @@
 # Troubleshooting
 
-Use this section for diagnostic case studies that show how you reason from symptoms to evidence and a verified resolution. There are no case studies yet.
+There are no troubleshooting case studies in this section yet. When adding one, document a real lab or authorized diagnostic exercise and support conclusions with sanitized observations.
 
-## Add
+## Case-study outline
 
-Create a folder per case with a README. Use this outline:
+1. **Context and symptom:** environment, expected behavior, actual behavior, and scope.
+2. **Investigation:** hypotheses, commands or tests, observations, and what the evidence establishes.
+3. **Cause and resolution:** distinguish confirmed causes from suspected ones; explain the change.
+4. **Retest:** record the success criteria, actual result, evidence, and remaining limitations.
+5. **Lessons and references:** note prevention, useful diagnostics, and credited sources.
 
-1. **Context and symptom:** lab/simulation or authorized environment, status, expected behavior, actual behavior, and scope of impact.
-2. **Environment:** relevant versions, topology/addressing, prerequisites, and links to the originating project or lab.
-3. **Investigation:** hypotheses, commands/tests, sanitized observations, and what each observation rules in or out.
-4. **Cause:** evidence for the cause; say “suspected” when not confirmed.
-5. **Resolution:** change/configuration, reason for it, and rollback if applicable.
-6. **Retest:** expected versus actual result, linked evidence, date, and any remaining limitations.
-7. **Lessons and references:** prevention, better diagnostics, and credited sources.
-
-Add a link here with the symptom and resolution status once the case exists. Keep enough detail to follow the reasoning without publishing entire logs.
-
-## Keep out
-
-Do not invent incidents, business impact, causes, or fixes. Avoid sensitive logs, host identifiers, customer data, and credentials. A fix without a successful retest must stay unverified. Routine build steps belong with their [project](../projects/README.md) or [lab](../labs/README.md).
+Do not publish credentials, customer data, or sensitive network details. A resolution without a successful retest should remain marked unverified.

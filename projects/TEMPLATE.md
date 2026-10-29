@@ -1,45 +1,39 @@
 # <Project title>
 
-**Context:** <simulated lab / physical lab / personal deployment / authorized real-world work>
+**Context:** <simulation / physical lab / personal deployment / authorized real-world work>
 
 **Status:** <planned / in progress / complete>
 
 **Contribution:** <what you personally designed, implemented, and tested>
 
-## Problem and objective
+## Problem and scope
 
-<Who or what needs this? Define scope, constraints, and measurable completion criteria.>
+<Who or what needs this? State constraints, scope, and measurable completion criteria.>
 
-## Environment and prerequisites
+## Environment
 
-<Devices/platforms, software versions, required access and dependencies. Identify simulated components and assumptions.>
+<Devices, platforms, software versions, access, dependencies, and assumptions. Identify simulated components.>
 
-## Topology and addressing
+## Design
 
-<Add a sanitized diagram or link. Explain device roles, links, subnets, VLANs, gateways, and routing boundaries as relevant. Use documentation/example addresses for public explanations; keep the diagram and configs consistent.>
+<Add a sanitized topology diagram. Explain device roles, addressing, routing boundaries, and key design decisions.>
 
 ## Implementation
 
-<Explain key decisions and the ordered steps needed to reproduce the work. Link sanitized configuration files; identify relevant commands and where they run. Include verification and rollback/cleanup steps when applicable.>
+<Explain the steps needed to reproduce the work. Link sanitized configurations and note where commands run. Include rollback or cleanup steps when applicable.>
 
 ## Verification
 
-Record actual tests only after running them. Preserve enough sanitized evidence to support each conclusion.
-
-| Test and procedure | Expected behavior | Actual behavior | Evidence | Result/date |
+| Test | Expected result | Actual result | Evidence | Status/date |
 | --- | --- | --- | --- | --- |
-| <test to run> | <success criterion> | Not run | None yet | Pending |
+| <procedure and success criterion> | <expected behavior> | Not run | None | Pending |
 
-<Include negative tests, such as traffic that should be blocked, when relevant. Explain any untested criteria or limits.>
-
-## Troubleshooting
-
-<Symptom → hypothesis → diagnostic command and observation → change → retest. Distinguish a confirmed cause from a suspected cause; link a fuller case study if useful.>
+<Record negative tests where relevant. State which criteria remain untested and what the evidence does not establish.>
 
 ## Outcome and lessons
 
-<Compare evidence with completion criteria. Explain what worked, remaining limitations, tradeoffs, and what you would improve. Do not claim completion while required verification remains pending.>
+<Compare results with completion criteria. Explain limitations, tradeoffs, and next improvements. Do not mark the work complete while required tests remain pending.>
 
 ## References
 
-<Link sources and tutorials, record access dates or applicable versions, and credit reused material. Explain how your work differs or extends the reference.>
+<Link sources, relevant versions or access dates, and attribution. Explain how your work differs from referenced material.>

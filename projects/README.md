@@ -1,13 +1,11 @@
 # Projects
 
-Use this section for cohesive networking implementations that solve a defined problem and have documented verification. There are no project entries yet.
+This area currently contains one routing lab artifact. Its source files are available, but this repository does not yet include a project report or recorded verification; it is therefore linked as lab work, not presented as a completed deployment.
 
-## Add
+| Work | Context | Status |
+| --- | --- | --- |
+| [Mumbai–Pune static routing](1st_Lab/README.md) | Packet Tracer lab | Files available; implementation details and test results are not documented here |
 
-Create one folder per project, with a README based on the [project template](TEMPLATE.md). Include the problem, scope, your contribution, environment, topology/addressing, sanitized implementation, expected versus actual tests, troubleshooting, lessons, and references. Put diagrams, configurations, and evidence in clearly named subfolders when useful.
+## Adding a project
 
-State context and status prominently. A completed lab-based project is welcome when labeled as a lab. Describe limitations and the criteria used to call it complete. Link each project here with a one-sentence summary and status; move only verified completed work into the main README's featured section.
-
-## Keep out
-
-Do not add invented outcomes, unsupported metrics, credentials, confidential infrastructure, copied tutorials presented as original work, or unannotated configuration dumps. Small practice exercises belong in [labs](../labs/README.md); standalone diagnostic cases belong in [troubleshooting](../troubleshooting/README.md).
+Use the [project template](TEMPLATE.md) to document the problem, scope, your contribution, environment, implementation decisions, and verification. State limitations and distinguish lab or simulation work from authorized real-world deployments.

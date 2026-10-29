@@ -4,7 +4,7 @@ Hands-on networking study focused on routing, switching, and core network servic
 
 **Current scope:** the repository contains learning materials and lab artifacts. Results, environment details, and verification evidence are not documented for every item, so files are presented as study work rather than production experience or verified deployments.
 
-**Profile:** [github.com/shivprasadsabat](https://github.com/shivprasadsabat)
+**Profiles:** [GitHub](https://github.com/shivprasadsabat) · [Connect on LinkedIn](https://www.linkedin.com/in/shivprasad-sabat)
 
 ## Areas of focus
 

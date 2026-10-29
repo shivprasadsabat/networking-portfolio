@@ -1,0 +1,12 @@
+# Personal local material: never publish this directory.
+/.private/
+
+# Local secrets, keys, and machine-generated clutter.
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+Thumbs.db
+.DS_Store
+*.log
